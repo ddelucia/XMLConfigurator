@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Benutzer>
+    <Name>Mr Tester</Name>
+    <Email>email@tester.ch</Email>
+    <Notification>true</Notification>
+</Benutzer>
